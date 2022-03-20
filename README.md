@@ -119,3 +119,28 @@ var welcomeMessage: String
 nil - 값이 없는 상태를 나타냄
 
 ### 2. If Statements and Forced Unwrapping If 구문과 강제로 풀기
+
+
+
+
+# Collection Types 콜렉션
+
+배열 Array, 집합 Set, 딕셔너리 Dictionary
+
+## Mutability of Collections 콜렉션의 가변성
+
+변수에 할당 → 변경 가능 mutable. 콜렉션이 생성된 후에 콜렉션의 아이템을 추가, 삭제 또는 변경할 수 있음
+
+상수에 할당 → 변경 불가능. 크기와 콘텐츠를 변경할 수 없다.
+
+## Arrays 배열
+
+**순서**대로 **같은 타입**의 값을 저장
+
+같은 값은 배열에 다른 순서로 존재할 수 있음
+
+### Array Type Shorthand Syntax 배열 타입 구문
+
+`Array<Element>` or `[Element]` 로 작성
+
+### Creating an Empty Array 빈 배열 생성
