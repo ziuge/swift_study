@@ -6,3 +6,5 @@ Swift 공식 문서 읽고 정리하기
 13. [상속](https://velog.io/@ziuge/Swift-13.-%EC%83%81%EC%86%8D-Inheritance)
 
 14. [초기화](https://velog.io/@ziuge/Swift-14.-%EC%B4%88%EA%B8%B0%ED%99%94-Initialization)
+
+15. [초기화 해제](https://velog.io/@ziuge/Swift-15.-%EC%B4%88%EA%B8%B0%ED%99%94-%ED%95%B4%EC%A0%9C-Deinitialization)
