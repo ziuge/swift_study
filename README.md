@@ -12,3 +12,5 @@ Swift 공식 문서 읽고 정리하기
 16. [옵셔널 체이닝](https://velog.io/@ziuge/Swift-16.-옵셔널-체이닝-Optional-Chaining)
 
 17. [에러 처리](https://velog.io/@ziuge/Swift-17.-에러-처리-Error-Handling)
+
+18. [동시성](https://velog.io/@ziuge/Swift-18.-동시성-Concurrency)
