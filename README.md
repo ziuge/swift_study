@@ -14,3 +14,6 @@ Swift 공식 문서 읽고 정리하기
 17. [에러 처리](https://velog.io/@ziuge/Swift-17.-에러-처리-Error-Handling)
 
 18. [동시성](https://velog.io/@ziuge/Swift-18.-동시성-Concurrency)
+
+19. [타입 캐스팅](https://velog.io/@ziuge/Swift-19.-타입-캐스팅-Type-Casting)
+
