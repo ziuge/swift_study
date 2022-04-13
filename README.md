@@ -17,3 +17,6 @@ Swift 공식 문서 읽고 정리하기
 
 19. [타입 캐스팅](https://velog.io/@ziuge/Swift-19.-타입-캐스팅-Type-Casting)
 
+20. [중첩 타입](https://velog.io/@ziuge/Swift-20.-중첩-타입-Nested-Types)
+
+21. [확장](https://velog.io/@ziuge/Swift-21.-확장-Extensions)
