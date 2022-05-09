@@ -20,3 +20,13 @@ Swift 공식 문서 읽고 정리하기
 20. [중첩 타입](https://velog.io/@ziuge/Swift-20.-중첩-타입-Nested-Types)
 
 21. [확장](https://velog.io/@ziuge/Swift-21.-확장-Extensions)
+
+22. [프로토콜](https://velog.io/@ziuge/Swift-22.-프로토콜-Protocols)
+
+23. [자동 참조 카운팅](https://velog.io/@ziuge/Swift-23.-자동-참조-카운팅-Automatic-Reference-Counting)
+
+24. [메모리 안전성](https://velog.io/@ziuge/Swift-24.-메모리-안전성-Memory-Safety)
+
+25. [접근 제어](https://velog.io/@ziuge/Swift-25.-접근-제어-Access-Control)
+
+26. [고급 연산자](https://velog.io/@ziuge/Swift-26.-고급-연산자-Advanced-Operators)
